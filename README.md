@@ -1,14 +1,18 @@
-<!--
-**erikcnelson-Ek0/erikcnelson-Ek0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Erik C Nelson
 
-Here are some ideas to get you started:
+Multi-instrumentalist and sound artist. New York.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Browser-native instruments and analysis tools for music. Professionally:
+AI collaboration, training, and context engineering.
+
+```
+native browser tech        no frameworks
+runs offline               no network calls, nothing uploaded
+local inference only       no training on your material
+judged by ear              measurement informs, it does not decide
+```
+
+Real-time multitouch control surfaces · on-device polyphonic transcription ·
+generative systems tuned in just intonation
+
+[erikcnelson.bandcamp.com](https://erikcnelson.bandcamp.com)
