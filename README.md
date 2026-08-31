@@ -5,9 +5,8 @@ Multi-instrumentalist and sound artist. New York.
 Browser-native instruments and analysis tools for music. Professionally: AI collaboration, training, and context engineering.
 
 ```
-native browser tech        no frameworks
 runs offline               no network calls, nothing uploaded
-local inference only       no training on your material
+your material stays local  no cloud processing, no training
 judged by ear              measurement informs, it does not decide
 ```
 
